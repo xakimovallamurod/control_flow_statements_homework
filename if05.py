@@ -1,11 +1,9 @@
-def main(a,b,c):
+def main(foyda):
     """
-    Find number of negative numbers there are in the given numbers.
-    Args:
-        a: integer
-        b: integer
-        c: integer
-    returns:
-        integer: the number of negative numbers in the given numbers
+    Allamurodning kunlik foydasi berilgan. Agar u musbat bo'lsa "Foyda", manfiy bo'lsa "Zarar", nolga teng bo'lsa "Nol" matnini qaytaring.
+    Argumentlar:
+        foyda(int): kunlik foyda
+    Qaytaradi:
+        str: natija matni
     """
     return

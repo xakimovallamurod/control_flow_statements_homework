@@ -1,16 +1,10 @@
-def main(a,b,c):
+def main(a, b):
     """
-    Find how many positive and how many negative numbers there are in the given numbers.
-    check the following conditions:
-    "there are a lot of positive numbers",
-    "there are a lot of negative numbers"
-
-    Args:
-        a: first number
-        b: second number
-        c: third number
-
-    Returns:
-        string: string with the result
+    Allamurodning yoshi va akasining yoshi berilgan. max() funksiyasidan foydalanmasdan kattaroq yoshni qaytaring.
+    Argumentlar:
+        a(int): Allamurodning yoshi
+        b(int): akasining yoshi
+    Qaytaradi:
+        int: katta yosh
     """
     return

@@ -1,9 +1,9 @@
-def main(a):
+def main(n):
     """
-    If the number is positive, increase it to 1,otherwise decrease it to 2.
-    Args:
-        a: integer
-    Returns:
-        a: a increased by 1 if positive, else decreased by 2.
+    Allamurodning xonadon raqami berilgan. Agar raqam juft bo'lsa "Juft", aks holda "Toq" matnini qaytaring.
+    Argumentlar:
+        n(int): xonadon raqami
+    Qaytaradi:
+        str: natija matni
     """
     return

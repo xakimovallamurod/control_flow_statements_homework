@@ -1,15 +1,9 @@
-def main(a):
+def main(kun):
     """
-    Given an integer a, check the following conditions:
-    "positive odd number",
-    "positive even number",
-    "negative odd number",
-    "negative even number",
-    "the number is zero"
-
-    Args:
-        a: integer
-    Returns:
-        string: the message to print
+    Hafta kuni raqami berilgan (1 — dushanba, 7 — yakshanba). Agar kun 1–5 oralig'ida bo'lsa "Ish kuni", 6 yoki 7 bo'lsa "Dam olish kuni", aks holda "Noto'g'ri kun" matnini qaytaring.
+    Argumentlar:
+        kun(int): hafta kuni raqami
+    Qaytaradi:
+        str: natija matni
     """
     return

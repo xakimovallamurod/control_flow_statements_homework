@@ -1,10 +1,9 @@
-def main(a):
+def main(ball):
     """
-    If the number is positive, increase it to 1,if the number is negative decrease it to 2.
-    If it is 0, assign 10.
-    Args:
-        a: integer
-    Returns:
-        a: integer
+    Allamurodning imtihon bali berilgan. Agar bali 60 yoki undan yuqori bo'lsa "O'tdi", aks holda "Yiqildi" matnini qaytaring.
+    Argumentlar:
+        ball(int): imtihon bali
+    Qaytaradi:
+        str: natija matni
     """
     return

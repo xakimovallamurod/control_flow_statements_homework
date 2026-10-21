@@ -1,9 +1,9 @@
-def main(a):
+def main(yosh):
     """
-    If the number is positive, increase it to 1,otherwise leave unchanged.
-    Args:
-        a: integer
-    Returns:
-        a: a increased by 1 if positive, else unchanged.
+    Allamurodning yoshi berilgan. Agar yoshi 18 yoki undan katta bo'lsa "Voyaga yetgan", aks holda "Voyaga yetmagan" matnini qaytaring.
+    Argumentlar:
+        yosh(int): yosh
+    Qaytaradi:
+        str: natija matni
     """
     return

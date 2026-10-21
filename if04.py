@@ -1,11 +1,10 @@
-def main(a,b,c):
+def main(balans, narx):
     """
-    Find number of positive numbers there are in the given numbers.
-    Args:
-        a: integer
-        b: integer
-        c: integer
-    returns:
-        integer: the number of positive numbers in the given numbers
+    Allamurodning hisobidagi pul va kitob narxi berilgan. Agar pul yetarli bo'lsa, kitob sotib olingandan keyingi qoldiqni qaytaring, aks holda hisobdagi pulni o'zgarishsiz qaytaring.
+    Argumentlar:
+        balans(int): hisobdagi pul
+        narx(int): kitob narxi
+    Qaytaradi:
+        int: qoldiq
     """
     return
